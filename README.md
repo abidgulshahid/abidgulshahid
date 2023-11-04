@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-
 - 🔭 I’m currently working as a Software Engineer and Freelance Bug Hunter
 - 🌱 I’m currently learning & exploring the field of Blockchain Security and Reverse Engineering in detail.
 - 👯 I’m looking to collaborate on anything related to Offensive Security
