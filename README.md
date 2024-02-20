@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on anything related to Offensive Security
 - 🤔 I’m looking for help with tooling and automation for Auditing
 - 💬 Ask me about in cybersecurity
-- ⚡ Fun fact: I don't know if there is any
+- ⚡ Fun fact: I don't know if there is any 
  
  
   
