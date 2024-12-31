@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  
-- 🔭 I’m currently working as a Senior Software Engineer by day, Cyber Security Engineer by night and a founder of a service based company, British Bytes.
+- 🔭 I’m currently working as a Senior Software Engineer by day, Ethical Hacker by night and a founder of a  British Bytes.
 - 🌱 I’m currently learning & exploring the field of Blockchain Security and Reverse Engineering in detail.
 - 👯 I’m looking to collaborate on anything related to Offensive Security
 - 🤔 I’m looking for help with tooling and automation for Auditing
