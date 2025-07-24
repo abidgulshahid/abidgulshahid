@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with tooling and automation for Auditing
 - 💬 Ask me about in cybersecurity
 - ⚡ Fun fact: I don't know if there is any
-- **Tech Stack** I use: MERN, MEVN, Django Stack, AWS, Java (Spring Boot) and React Native.
+- **Tech Stack** I use: MERN, MEVN, Django Stack, AWS, Golang and React Native.
     
 <br><br> 
 
